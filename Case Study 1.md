@@ -47,7 +47,7 @@ You can feel free to choose any SQL dialect you’d like to use, the existing Fi
 
 Serious SQL students have access to a dedicated SQL script in the 8 Week SQL Challenge section of the course which they can use to generate relevant temporary tables like we’ve done throughout the entire course!
 
-''' CREATE SCHEMA dannys_diner;
+'''CREATE SCHEMA dannys_diner;
 SET search_path = dannys_diner;
 
 CREATE TABLE sales (
@@ -99,5 +99,5 @@ INSERT INTO members
   ("customer_id", "join_date")
 VALUES
   ('A', '2021-01-07'),
-  ('B', '2021-01-09'); '''
+  ('B', '2021-01-09');'''
 
