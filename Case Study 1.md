@@ -12,5 +12,14 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
 Danny has shared with you 3 key datasets for this case study:
+-sales
+-menu
+-members
 
- 
+You can inspect the entity relationship diagram and example data below.
+
+## Entity Relationship Diagram 
+![image](https://github.com/user-attachments/assets/c8bb1dc5-cfb2-472d-a8d2-87e18cf6174a)
+
+
+
